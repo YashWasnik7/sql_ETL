@@ -8,11 +8,11 @@ ETL:
 1. Extraction using sqlite commmand line:
 ![image](https://github.com/user-attachments/assets/ad1cf1ba-dbfe-4151-82b0-0e205f38c69d)
 
-2. Transformation steps:
+2. SQL Transformation :
    
-Step 1: Handling missing values <br>
-Step 2: Removing duplicate entries <br>
-Step 3: Trimming whitespace 
+    a: Handling missing values <br>
+    b: Removing duplicate entries <br>
+    c: Trimming whitespace 
 
 ![image](https://github.com/user-attachments/assets/b9caaaba-e355-4156-87c9-b44a60389939)
 
