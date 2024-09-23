@@ -10,9 +10,9 @@ ETL:
 
 2. Transformation steps:
    
-Step 1: Handling missing values
-Step 2: Removing duplicate entries 
-Step 3: Trimming whitespace
+Step 1: Handling missing values <br>
+Step 2: Removing duplicate entries <br>
+Step 3: Trimming whitespace 
 
 ![image](https://github.com/user-attachments/assets/b9caaaba-e355-4156-87c9-b44a60389939)
 
