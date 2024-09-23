@@ -11,9 +11,11 @@ ETL:
 2. Transformation steps:
 Step 1: Handling missing values
 Step 2: Removing duplicate entries 
-Step 3: Trimming whitespace 
+Step 3: Trimming whitespace
+
 ![image](https://github.com/user-attachments/assets/b9caaaba-e355-4156-87c9-b44a60389939)
 
 4. Loading to target db using DB Broswer:
+   
 ![image](https://github.com/user-attachments/assets/8e90c2de-0d1b-4161-8209-685d657dae04)
 
