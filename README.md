@@ -20,3 +20,17 @@ ETL:
    
 ![image](https://github.com/user-attachments/assets/8e90c2de-0d1b-4161-8209-685d657dae04)
 
+Data Analysis:
+
+![image](https://github.com/user-attachments/assets/0aee0971-025d-4632-a1cf-cecf89b4710f)
+
+Output: <br>
+
+![image](https://github.com/user-attachments/assets/e37c6b45-ef30-480f-9f05-cd0423e1bce2)
+
+
+![image](https://github.com/user-attachments/assets/87ab5aab-2d38-4562-a496-eedbc34da053)
+
+Output: <br>
+
+![image](https://github.com/user-attachments/assets/728fafa4-402f-4db7-ada5-cf47e8df3890)
